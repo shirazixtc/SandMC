@@ -1,0 +1,8 @@
+main: de.sandmc.joinme.Main
+author: Cap0x
+version: 1.0
+name: JoinME
+
+
+commands:
+  joinme:
